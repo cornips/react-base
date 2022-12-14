@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=cornips_react-base&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=cornips_react-base)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
